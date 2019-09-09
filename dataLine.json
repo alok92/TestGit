@@ -1,0 +1,74 @@
+[
+  {
+    "time": "2019-01-23",
+    "valueA": 2,
+    "valueB": 5,
+    "valueC": 3
+  },
+  {
+    "time": "2019-02-01",
+    "valueA": 3,
+    "valueB": 4,
+    "valueC": 4
+  },
+  {
+    "time": "2019-03-10",
+    "valueA": 1,
+    "valueB": 4,
+    "valueC": 6
+  },
+  {
+    "time": "2019-04-14",
+    "valueA": 7,
+    "valueB": 4,
+    "valueC": 2
+  },
+  {
+    "time": "2019-05-04",
+    "valueA": 8,
+    "valueB": 8,
+    "valueC": 7
+  },
+  {
+    "time": "2019-06-09",
+    "valueA": 8,
+    "valueB": 1,
+    "valueC": 9
+  },
+  {
+    "time": "2019-07-11",
+    "valueA": 5,
+    "valueB": 5,
+    "valueC": 3
+  },
+  {
+    "time": "2019-08-12",
+    "valueA": 4,
+    "valueB": 7,
+    "valueC": 2
+  },
+  {
+    "time": "2019-09-14",
+    "valueA": 9,
+    "valueB": 8,
+    "valueC": 1
+  },
+  {
+    "time": "2019-10-15",
+    "valueA": 1,
+    "valueB": 3,
+    "valueC": 1
+  },
+  {
+    "time": "2019-11-25",
+    "valueA": 6,
+    "valueB": 4,
+    "valueC": 3
+  },
+  {
+    "time": "2019-12-02",
+    "valueA": 8,
+    "valueB": 4,
+    "valueC": 1
+  }
+]
