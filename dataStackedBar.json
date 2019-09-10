@@ -1,0 +1,80 @@
+[
+  {
+    "age_band": "18-21",
+    "Female": 20,
+    "Male": 6,
+    "Unknown": 0
+  },
+  {
+    "age_band": "22-25",
+    "Female": 133,
+    "Male": 43,
+    "Unknown": 1
+  },
+  {
+    "age_band": "26-30",
+    "Female": 299,
+    "Male": 90,
+    "Unknown": 2
+  },
+  {
+    "age_band": "31-35",
+    "Female": 348,
+    "Male": 85,
+    "Unknown": 1
+  },
+  {
+    "age_band": "36-40",
+    "Female": 366,
+    "Male": 114,
+    "Unknown": 3
+  },
+  {
+    "age_band": "41-45",
+    "Female": 348,
+    "Male": 112,
+    "Unknown": 1
+  },
+  {
+    "age_band": "45-50",
+    "Female": 426,
+    "Male": 135,
+    "Unknown": 3
+  },
+  {
+    "age_band": "51-55",
+    "Female": 351,
+    "Male": 104,
+    "Unknown": 2
+  },
+  {
+    "age_band": "55-60",
+    "Female": 359,
+    "Male": 110,
+    "Unknown": 4
+  },
+  {
+    "age_band": "61-65",
+    "Female": 278,
+    "Male": 103,
+    "Unknown": 2
+  },
+  {
+    "age_band": "65-70",
+    "Female": 175,
+    "Male": 79,
+    "Unknown": 0
+  },
+  {
+    "age_band": "71+",
+    "Female": 111,
+    "Male": 61,
+    "Unknown": 0
+  },
+  {
+    "age_band": "Unknown",
+    "Female": 14,
+    "Male": 6,
+    "Unknown": 0
+  }
+]
