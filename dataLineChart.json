@@ -14,7 +14,7 @@
   {
     "time": "2019-03-10",
     "valueA": 1,
-    "valueB": 4,
+    "valueB": 5,
     "valueC": 6
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "time": "2019-06-09",
-    "valueA": 8,
+    "valueA": 3,
     "valueB": 1,
     "valueC": 9
   },
@@ -57,7 +57,7 @@
     "time": "2019-10-15",
     "valueA": 1,
     "valueB": 3,
-    "valueC": 1
+    "valueC": 9
   },
   {
     "time": "2019-11-25",
@@ -68,7 +68,7 @@
   {
     "time": "2019-12-02",
     "valueA": 8,
-    "valueB": 4,
+    "valueB": 6,
     "valueC": 1
   }
 ]
